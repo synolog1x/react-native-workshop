@@ -6,6 +6,6 @@
 3. `npm i`
 4. `npx react-native run-android`
 
-### iOS (experts only)
+### iOS (special snowflakes only)
 1. `cd ios && pod install`
 2. `npx react-native run-ios`
